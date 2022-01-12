@@ -1,3 +1,5 @@
+Minerva Project note: This is a forked repo that we are using to patch a [CVE vulnerability](https://github.com/advisories/GHSA-gwp7-vqr5-h33h) in the version we currently are on (0.8.12). This is as a stopgap fix until we can do a full upgrade of autobahn, which likely will include some infrastructure changes.
+
 # Autobahn|Python
 
 [![Build Status](https://travis-ci.org/tavendo/AutobahnPython.png?branch=master)](https://travis-ci.org/tavendo/AutobahnPython)
